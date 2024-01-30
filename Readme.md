@@ -2,7 +2,7 @@
 
 * Студент: [Екатерина Гурова](https://up.htmlacademy.ru/htmlcss/39/user/2374249).
 * Наставник: [Олег Зайцев](https://htmlacademy.ru/profile/ozi).
-
+* Сайт: [Мой проект Седона](https://iiketrinii.github.io/2374249-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
